@@ -55,6 +55,9 @@ Here’s a reusable section you can copy for each project:
 
 ###  EssayForge Projects Overview
 
+Click to Watch Demo:
+[![Watch the video](Screenshot%202025-11-15%20144719.png)](https://drive.google.com/file/d/102tit2K9oHOIpfLrRBoA45ZpISzCFDmK/view?usp=sharing)
+
 **Description:**  
 A suite of AI‑augmented writing tools designed to make large language models approachable, trustworthy, and production‑ready. The portfolio spans frontend workspace design, editor ergonomics, and backend service architecture.
 
@@ -70,13 +73,8 @@ A suite of AI‑augmented writing tools designed to make large language models a
 3.  Testing & iteration — validated drag‑resize UX, accessibility of color palettes, dark‑mode parity, latency assumptions, and fallback logic.  
 4.  Documentation — recorded component structures, new interaction patterns, migration guidance, and living backend specifications for future contributors.  
 
-** Visuals:**  
-- _EssayForge AI Workspace:_ `![EssayForge AI Workspace](docs/assets/ai-workspace.png)`  
-- _Sheets‑Style Toolbar:_ `![Sheets-Style Toolbar](docs/assets/toolbar-refresh.png)`  
-- _Backend Architecture Diagram:_ `![Backend Architecture Diagram](docs/assets/backend-architecture.png)`  
-
-** Visuals:**  
-- _Screenshot placeholder: Consider a system diagram or whiteboard capture to showcase the service topology._  
-- `![Backend Architecture Diagram](docs/assets/backend-architecture.png)`
+**Photos:**  
+![Screenshot](Screenshot%202025-11-15%20145325.png) 
+![Autocomplete](Screenshot%202025-11-15%20144704.png)
 
 ---
