@@ -17,7 +17,7 @@
 ---
 
 <details>
-<summary>📊 Quick Skills Snapshot</summary>
+<summary> Quick Skills Snapshot</summary>
 
 | Category        | Skills & Tools |
 |-----------------|----------------|
@@ -50,5 +50,33 @@ Here’s a reusable section you can copy for each project:
 ** Visuals:**  
 - Add screenshots, CAD renders, or diagrams here  
 - Use `![Alt Text](image_link.png)` for inline images  
+
+---
+
+###  EssayForge Projects Overview
+
+**Description:**  
+A suite of AI‑augmented writing tools designed to make large language models approachable, trustworthy, and production‑ready. The portfolio spans frontend workspace design, editor ergonomics, and backend service architecture.
+
+**Skills Used:**  
+- Frontend: SvelteKit, Tiptap editor, TypeScript state management, responsive CSS architecture  
+- Design: SVG icon systems, custom color pickers, accessibility‑first component design  
+- Backend: Express.js API gateway, Redis caching, Supabase integration, rate limiting  
+- Product Thinking: staged AI rollouts, UX writing, incremental rollout planning, observability‑first instrumentation  
+
+**Design/Build Process:**  
+1.  Ideation — mapped core AI flows (prompting, humanizing, detection, citations), audited editor ergonomics, and defined backend service responsibilities.  
+2.  Modular prototyping — built panel containers, tab systems, toolbar primitives, and request/response schemas as isolated components.  
+3.  Testing & iteration — validated drag‑resize UX, accessibility of color palettes, dark‑mode parity, latency assumptions, and fallback logic.  
+4.  Documentation — recorded component structures, new interaction patterns, migration guidance, and living backend specifications for future contributors.  
+
+** Visuals:**  
+- _EssayForge AI Workspace:_ `![EssayForge AI Workspace](docs/assets/ai-workspace.png)`  
+- _Sheets‑Style Toolbar:_ `![Sheets-Style Toolbar](docs/assets/toolbar-refresh.png)`  
+- _Backend Architecture Diagram:_ `![Backend Architecture Diagram](docs/assets/backend-architecture.png)`  
+
+** Visuals:**  
+- _Screenshot placeholder: Consider a system diagram or whiteboard capture to showcase the service topology._  
+- `![Backend Architecture Diagram](docs/assets/backend-architecture.png)`
 
 ---
