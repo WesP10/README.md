@@ -74,7 +74,7 @@ A suite of AI‑augmented writing tools designed to make large language models a
 4.  Documentation — recorded component structures, new interaction patterns, migration guidance, and living backend specifications for future contributors.  
 
 **Photos:**  
-![Screenshot](Screenshot%202025-11-15%20145325.png) 
+![Screenshot](Screenshot%202025-11-15%20151157.png) 
 ![Autocomplete](Screenshot%202025-11-15%20144704.png)
 
 ---
