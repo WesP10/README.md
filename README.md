@@ -30,33 +30,11 @@
 
 ---
 
-##  Project Template
-
-Here’s a reusable section you can copy for each project:
-
-###  Project Title
-**Description:** One‑sentence summary of the project’s purpose.  
-
-**Skills Used:**  
-- List of languages, frameworks, or tools  
-- Highlight any math/engineering concepts  
-
-**Design/Build Process:**  
-1. Ideation  
-2. Modular prototyping  
-3. Testing & iteration  
-4. Documentation  
-
-** Visuals:**  
-- Add screenshots, CAD renders, or diagrams here  
-- Use `![Alt Text](image_link.png)` for inline images  
-
----
 
 ###  EssayForge Projects Overview
 
 Click to Watch Demo:
-[![Watch the video](Screenshot%202025-11-15%20144719.png)](https://drive.google.com/file/d/102tit2K9oHOIpfLrRBoA45ZpISzCFDmK/view?usp=sharing)
+[![Watch the video](res/MEW_thumbnail.png)]([res/modern_essay_writer_demo.mp4](https://drive.google.com/file/d/102tit2K9oHOIpfLrRBoA45ZpISzCFDmK/view?usp=sharing))
 
 **Description:**  
 A suite of AI‑augmented writing tools designed to make large language models approachable, trustworthy, and production‑ready. The portfolio spans frontend workspace design, editor ergonomics, and backend service architecture.
@@ -74,7 +52,57 @@ A suite of AI‑augmented writing tools designed to make large language models a
 4.  Documentation — recorded component structures, new interaction patterns, migration guidance, and living backend specifications for future contributors.  
 
 **Photos:**  
-![Screenshot](Screenshot%202025-11-15%20151157.png) 
-![Autocomplete](Screenshot%202025-11-15%20144704.png)
+![Screenshot](res/MEW.png) 
+![Autocomplete](res/MEW_autocomplete.png)
 
 ---
+
+###  Hyperloop GUI Projects Overview
+
+Click to View Repo: https://github.com/WesP10/electrical
+
+**Description:**  
+A desktop and web‑prototype GUI for Hyperloop control, visualization, and testing. The interface centralizes VFD profile management, telemetry visualization, and microcontroller flashing workflows to streamline hardware integration and operator workflows.
+
+**Skills Used:**
+- Frontend: Desktop GUI prototyping (PyQt/PySide) and web dashboard prototypes (React/TypeScript) for telemetry and control panels
+- Hardware integration: VFD profiling, serial/UART and CAN telemetry parsing, flashing microcontrollers
+- Data & tooling: real‑time plotting, CSV logging, configuration persistence, and automated test harnesses
+
+**Design/Build Process:**
+1.  Ideation — identified operator needs (profile tuning, safety interlocks, realtime telemetry) and mapped data flows between controllers and host PC.
+2.  Modular prototyping — built panel primitives (profile editor, live plots, serial console) with clear interfaces to the hardware abstraction layer.
+3.  Hardware integration — added VFD profile upload/download, flashing utilities for microcontrollers, and robust serial parsing with fallbacks.
+4.  Testing & iteration — validated telemetry accuracy, exercise safety interlocks, and improved UX for latency and offline modes.
+5.  Documentation — recorded component responsibilities, integration steps, and usage notes for operators and future contributors.
+
+**Photos:**
+![GUI](res/GUI.png)
+![VFD Profiles](res/VFD_Profiles.png)
+![Flashing Microcontroller](res/flashMicroController.png)
+
+---
+
+###  cbc-commons Projects Overview
+
+Click to View Repo: https://github.com/CornellBlockchain/commons
+
+**Description:**  
+A decentralized commons platform built with the Cornell Blockchain Club, enabling collaborative resource sharing and governance through smart contracts. The project focuses on blockchain-based commons management, token economics, and community-driven decision-making to foster sustainable digital ecosystems.
+
+**Skills Used:**
+- Blockchain: Solidity smart contract development, Ethereum network integration, gas optimization
+- Frontend: React/TypeScript for dApp interfaces, Web3.js integration for wallet connections
+- Backend: Node.js API for off-chain data handling, IPFS for decentralized storage
+- Security & Governance: Audit-ready code practices, DAO structures, multi-sig wallets
+
+**Design/Build Process:**
+1.  Ideation — defined commons principles (resource allocation, voting mechanisms) and mapped blockchain integration points for transparency and immutability.
+2.  Modular prototyping — built core smart contracts (token issuance, governance voting) and frontend components (dashboard, proposal system) as reusable modules.
+3.  Blockchain integration — implemented Web3 connections, transaction handling, and event listeners for real-time updates.
+4.  Testing & iteration — conducted security audits, simulated governance scenarios, and optimized for scalability and user adoption.
+5.  Documentation — recorded contract ABIs, deployment guides, and community governance rules for contributors and users.
+
+
+---
+
