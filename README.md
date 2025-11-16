@@ -1,7 +1,7 @@
 # Weston Clark — Engineering + Systems Architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/westonclark1)  
-[![Website](https://img.shields.io/badge/Website-Portfolio-green?logo=google-chrome&style=flat)](https://www.cornellhyperloop.com/members#comp-m79gbplt)
+[![Hyperloop Website](https://img.shields.io/badge/Hyperloop-Website-green?logo=google-chrome&style=flat)](https://www.cornellhyperloop.com/members#comp-m79gbplt)
 
 **Cornell Engineering** — Computer Science major, pursuing ECE minor  
 Systems architect, hackathon builder, and modular problem solver  
@@ -19,12 +19,16 @@ Focused on blending engineering rigor with creative design
 ---
 
 ## Skills Snapshot
-| Category        | Skills & Tools |
-|-----------------|----------------|
-| Programming     | Python, C++, MATLAB, TypeScript, LaTeX |
-| Engineering     | Linear Algebra, Control Theory, Circuit Analysis |
-| Design/Build    | CAD, Fabrication Optimization, Vectorization |
-| Collaboration   | GitHub Issues, Modular Repo Management, Hackathon Ideation |
+
+| Category            | Skills & Tools |
+|---------------------|----------------|
+| Programming         | Python, C++, Java, TypeScript, Solidity, MATLAB, LaTeX |
+| Systems & Platforms | Linux, Git/GitHub, Docker, Redis, Supabase, Node.js, React, SvelteKit |
+| Blockchain          | Smart Contracts (Solidity), Ethereum Integration, Web3.js, DAO Governance, IPFS |
+| Engineering         | Linear Algebra, Control Theory, Circuit Analysis, Hardware/Software Integration |
+| Security & Defense  | Audit-Ready Code Practices, Multi-Sig Wallets, Secure Protocol Design, Real-Time Telemetry |
+| Design/Build        | CAD, KiCad, GUI Development (Dash, React Dashboards), Figma, Adobe Suite |
+| Collaboration       | Agile Development, GitHub Issues, Modular Repo Management, Hackathon Experience |
 
 ---
 
@@ -76,7 +80,7 @@ Enabled transparent governance and collaborative resource sharing for Cornell Bl
 ### AI & Software Engineering
 
 #### EssayForge — AI Writing Tools
-[![Demo Video](res/MEW_thumbnail.png)]([res/modern_essay_writer_demo.mp4](https://drive.google.com/file/d/102tit2K9oHOIpfLrRBoA45ZpISzCFDmK/view?usp=sharing))
+[![Demo Video](res/MEW_thumbnail.png)](https://drive.google.com/file/d/102tit2K9oHOIpfLrRBoA45ZpISzCFDmK/view?usp=sharing)
 
 **Description:**  
 A suite of AI‑augmented writing tools designed to make large language models approachable, trustworthy, and production‑ready.
@@ -132,3 +136,26 @@ Reduced friction in job applications, saving time for users.
 ![Info panel](res/infoAutoFill.png)
 
 ---
+
+## Early Projects and Skill Development
+
+My technical foundation was built through a series of exploratory projects where I experimented, learned new tools, and developed the skills I now apply to larger systems:
+
+- **[Video-Automation](https://github.com/WesP10/Video-Automation)**  
+  Automated video processing workflows, teaching me the basics of scripting, file handling, and efficiency in repetitive tasks.
+
+- **[Brawl-Server](https://github.com/WesP10/Brawl-Server)**  
+  Built a stat‑tracking website for the game *Brawl Stars*, which introduced me to web development, database integration, and presenting dynamic player data.
+
+- **[Clark-Frontend](https://github.com/WesP10/Clark-Frontend)**  
+  Designed a personal frontend project to practice HTML/CSS/JavaScript fundamentals, focusing on layout, responsive design, and user interaction.
+
+- **[vue-exercise](https://github.com/WesP10/vue-exercise)**  
+  Created 7 unique Vue.js web components for displaying images, gaining experience in component‑based architecture and reactive state management.
+
+- **[java-eclipse-workspace](https://github.com/WesP10/java-eclipse-workspace)**  
+  Collection of 20+ Java projects including Discord bots, Wordle, custom games, Sudoku solvers, Solitaire, and more. These projects taught me object‑oriented programming, debugging, and how to scale ideas from small exercises into full applications.
+
+---
+
+These early projects gave me hands‑on experience across programming, design, and systems thinking. They formed the foundation for the advanced work showcased above and reflect my iterative approach to learning: start small, experiment, and scale up to impactful systems.
