@@ -52,7 +52,7 @@ A suite of AI‑augmented writing tools designed to make large language models a
 4.  Documentation — recorded component structures, new interaction patterns, migration guidance, and living backend specifications for future contributors.  
 
 **Photos:**  
-![Screenshot](res/MEW.png) 
+![Screenshot](res/MEW.png)  
 ![Autocomplete](res/MEW_autocomplete.png)
 
 ---
@@ -83,9 +83,10 @@ A desktop and web‑prototype GUI for Hyperloop control, visualization, and test
 
 ---
 
-###  cbc-commons Projects Overview
+###  cbc-commons Project Overview
 
-Click to View Repo: https://github.com/CornellBlockchain/commons
+Click to View Repo (Public Beta Version): https://github.com/WesP10/EzraPay
+Click to View Repo (Production Version in Development): https://github.com/CornellBlockchain/commons
 
 **Description:**  
 A decentralized commons platform built with the Cornell Blockchain Club, enabling collaborative resource sharing and governance through smart contracts. The project focuses on blockchain-based commons management, token economics, and community-driven decision-making to foster sustainable digital ecosystems.
@@ -106,3 +107,37 @@ A decentralized commons platform built with the Cornell Blockchain Club, enablin
 
 ---
 
+
+###  Byte-based LLM Project
+
+**Repo:** https://github.com/WesP10/byte-based-llm
+
+**Description:**
+- **Summary:** Experimental byte-level language model trained from scratch. The model is intentionally small and experimental — trained for only **5000 epochs** on a laptop CPU but capable of generating interesting, coherent text (see sample output below).
+- **Model type:** Byte-level LLM (byte tokenizer / lightweight architecture).
+- **Training:** Trained for `5000` epochs on a laptop CPU; training was performed as a low-resource experiment and is intended to be reproducible on modest hardware.
+
+**Sample output:**
+- **Image:** `res/homerText.png`
+
+![Sample output](res/homerText.png)
+
+**Usage / Notes:**
+- **Try it:** Clone the repository and follow the instructions in the project's `README` for running inference on CPU.
+- **Limitations:** Small dataset and limited epochs — outputs are experimental and may contain artifacts. Best for research/education and demonstration purposes.
+- **Hardware:** Verified to run inference on a standard laptop CPU (no GPU required for small-batch testing).
+
+
+---
+
+###  Resume Autofill Web Extension
+
+Click to View Repo: https://github.com/WesP10/resume-autofill-web-extension
+
+**Description:**
+- **Summary:** A browser extension that streamlines filling resume fields on web forms by mapping common resume sections to form inputs and suggesting autofill content.
+- **Features:** Smart field-mapping, manual override, lightweight UI for quick edits before submission.
+
+**Screenshots:**
+![Form fill preview](res/fillAutoFill.png)
+![Info panel](res/infoAutoFill.png)
